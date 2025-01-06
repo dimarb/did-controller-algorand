@@ -62,3 +62,6 @@ Este proyecto demuestra cómo crear y resolver Identificadores Descentralizados 
 ## Licencia
 
 Este proyecto está licenciado bajo la Licencia ISC.
+---
+## Autor 
+Dimar Borda
