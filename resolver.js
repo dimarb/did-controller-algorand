@@ -22,7 +22,7 @@ const resolveDID = async (did) => {
             return JSON.parse(note); // Asumimos que el contenido del 'note' es JSON
         });
 
-        console.log("DID Documents:", didDocuments);
+        console.log("DID Documents:", JSON.stringify(didDocuments));
         return didDocuments;
     } catch (error) {
         console.error("Error resolving DID:", error);
